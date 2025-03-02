@@ -1,0 +1,16 @@
+.main-footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(1, 6, 20);
+    color: white;
+    padding: 0px 10px 0px 10px;
+}
+
+.text1{
+    margin-top: 50px;
+    display: flex;
+    span{
+        margin-left: 10px;
+    }
+    align-items: center;
+}
