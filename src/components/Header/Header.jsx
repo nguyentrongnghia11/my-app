@@ -18,7 +18,7 @@ function Header() {
                 <span>About us</span>
             </div>
             <div className="sub-header-2">
-                <span>Your recipe Box</span>
+                <a href='link' className='p-2 text'>Your recipe Box</a>
                 <img src={avt} className='avt' alt="" />
             </div>
 
